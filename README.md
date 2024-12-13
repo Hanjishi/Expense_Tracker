@@ -43,6 +43,9 @@ python app.py
 
 
 ---
+
+
+
 ## Package Structure 
 
 Expense_Tracker/
@@ -57,6 +60,8 @@ Expense_Tracker/
 ├── README.md              # Documentation
 ├── requirements.txt       # Python dependencies
 └── documentation.ipynb    # Jupyter Notebook with explanations
+
+
 
 
 ---
