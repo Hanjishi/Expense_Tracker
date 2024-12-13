@@ -24,12 +24,12 @@ User-friendly tkinter interface.
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 git clone https://github.com/Hanjishi/Expense_Tracker.git
 cd ExpenseTracker
 
 
-2. Install required dependencies:
+2. **Install required dependencies:**
 Ensure you have Python 3.6+ installed.
 Install required libraries:
 pip install -r requirements.txt
@@ -38,29 +38,6 @@ pip install -r requirements.txt
 
 3. **Run the application:**
 python app.py
-
-
-
-
----
-
-
-
-## Package Structure 
-
-Expense_Tracker/
-├── expense_tracker/       # Main package
-│   ├── __init__.py
-│   ├── base_classes.py
-│   ├── expense.py
-│   ├── expense_manager.py
-│   ├── ui_manager.py
-│   ├── base_classes.py
-├── app.py                # Entry point to run the application
-├── README.md              # Documentation
-├── requirements.txt       # Python dependencies
-└── documentation.ipynb    # Jupyter Notebook with explanations
-
 
 
 
@@ -90,10 +67,11 @@ Click "View Summary" to see the total expenses by category.
 
 ---
 
-Example
+## Example
 
-1. Adding an Expense
-2. Viewing Expenses
-3. SummaryExpense Tracker
+1. **Adding an Expense**
+2. **Viewing Expenses**
+3. **Deleting Expenses**
+4. **SummaryExpense Tracker**
 
 ---
