@@ -5,6 +5,3 @@ class Expense:
         self.category = category
         self.date = date
         self.description = description
-        
-    def __to_tuple(self):
-        return (self.exepense_id, self.amount, self.category, self.date, self.description)
