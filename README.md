@@ -48,13 +48,12 @@ python app.py
 Expense_Tracker/
 ├── expense_tracker/       # Main package
 │   ├── __init__.py
+│   ├── base_classes.py
 │   ├── expense.py
 │   ├── expense_manager.py
 │   ├── ui_manager.py
 │   ├── base_classes.py
-├── tests/                 # Test cases
-├── images/                # Screenshots for documentation
-├── main.py                # Entry point to run the application
+├── app.py                # Entry point to run the application
 ├── README.md              # Documentation
 ├── requirements.txt       # Python dependencies
 └── documentation.ipynb    # Jupyter Notebook with explanations
