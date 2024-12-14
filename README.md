@@ -51,9 +51,9 @@ cd Expense_Tracker
 
 1. Start the application directly by running the following command:
 
-python main.py
+python app.py
 or
-python3 main.py
+python3 app.py
 
 2. The Expense Tracker UI will launch, and you can begin tracking your expenses.
 
