@@ -22,23 +22,45 @@ User-friendly tkinter interface.
 
 ---
 
+
 ## Installation
 
-1. **Clone the repository:**
+Follow these steps to set up and run the Expense Tracker system:
+
+**Prerequisites**
+
+1. Make sure Python 3.6 or later is installed on your computer. You can download it from the official Python website: https://www.python.org/downloads/.
+
+2. Confirm Python is installed by checking its version. This ensures compatibility.
+
+
+**Clone the Repository**
+
+1. Clone the repository to your local machine:
+
 git clone https://github.com/Hanjishi/Expense_Tracker.git
-cd ExpenseTracker
 
 
-2. **Install required dependencies:**
-Ensure you have Python 3.6+ installed.
-Install required libraries:
-pip install -r requirements.txt
+2. Navigate into the project directory:
+
+cd Expense_Tracker
 
 
 
-3. **Run the application:**
-python app.py
+**Run the Application**
 
+1. Start the application directly by running the following command:
+
+python main.py
+or
+python3 main.py
+
+2. The Expense Tracker UI will launch, and you can begin tracking your expenses.
+
+
+Notes
+No additional installations are needed since the system only uses built-in Python libraries (tkinter and sqlite3).
+Make sure your Python installation includes tkinter, as it is required for the GUI.
 
 
 ---
