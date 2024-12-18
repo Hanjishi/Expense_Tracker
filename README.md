@@ -7,7 +7,6 @@ The Expense Tracker is a Python-based desktop application designed to help users
 This project demonstrates Object-Oriented Programming (OOP) principles, GUI development, and database integration, making it a comprehensive example of Python application development.
 
 ---
-
 Expense_Tracker/
 |
 ├── expense_tracker/
@@ -19,7 +18,6 @@ Expense_Tracker/
 |
 ├── app.py                        # Entry point for the application
 └── README.md                     # Project documentation
-
 ---
 
 ## Features
